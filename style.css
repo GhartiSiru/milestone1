@@ -50,7 +50,7 @@ section{
 .menu{
     background-color: white;
     /* width: auto; */
-    height: 200px;
+    height: 225px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.08);
     /* padding: 50px 0 0 0; */
 
@@ -118,7 +118,7 @@ section{
     align-items: center;
     justify-content: space-between;
     margin: auto;
-    padding: 20px 0 0px 0;
+    padding: 25px 0 0px 0;
 }
 .logo .logo-title{
     font-size: 40px;
@@ -155,7 +155,7 @@ section{
 
 .main-body{
     background-color: rgba(184, 179, 179, 0.267);
-    height: 440px;
+    height: 460px;
     
 }
 .main{
@@ -188,6 +188,7 @@ section{
 .carousel-item .image{
     width: 550px;
     height: 440px;
+    padding: 15px 0 0 0;
 }
  
 .carousel-item img{
@@ -199,7 +200,7 @@ section{
 /* main body styling end */
 
 .sub-body{
-    height: 650px;
+    height: 670px;
     width: auto;
     background-color: #fff;
     
@@ -260,7 +261,7 @@ section{
 
 footer{
     background-color: black;
-    height: 385px;
+    height: 395px;
     padding: 30px 0;
 }
 .footer-body{
