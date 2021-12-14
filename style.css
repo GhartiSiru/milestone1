@@ -154,7 +154,7 @@ section{
 
 .main-body{
     background-color: rgba(184, 179, 179, 0.267);
-    height: 460px;
+    height: 440px;
     
 }
 .main{
@@ -171,7 +171,7 @@ section{
 .body-title h3{
     font-size: 35px;
     font-weight: bold;
-    padding: 120px 0 0 0;
+    padding: 60px 0 0 0;
 }
 .body-title p{
     text-align: justify;
@@ -186,8 +186,7 @@ section{
 }
 .carousel-item .image{
     width: 550px;
-    height: 450px;
-    padding: 20px;
+    height: 440px;
 }
  
 .carousel-item img{
